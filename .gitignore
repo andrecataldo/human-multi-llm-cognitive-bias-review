@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Raw database exports
+data/raw/*
+!data/raw/README.md
+
+# Temporary files
+*.tmp
+*.log
+~*

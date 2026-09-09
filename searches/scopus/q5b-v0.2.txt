@@ -1,0 +1,74 @@
+(
+  TITLE-ABS-KEY(
+    "multi agent LLM"
+    OR "multiagent LLM"
+    OR "multi agent large language model"
+    OR "LLM based multi agent"
+    OR "LLM agent"
+    OR "multi agent debate"
+    OR "agent debate"
+    OR "agentic AI"
+    OR "agent collaboration"
+    OR "multi agent collaboration"
+    OR "multi agent reasoning"
+    OR "collective reasoning"
+  )
+  OR
+  (
+    TITLE-ABS-KEY(
+      "multi agent system"
+      OR "multiagent system"
+    )
+    AND
+    TITLE-ABS-KEY(
+      "large language model"
+      OR LLM
+      OR LLMs
+      OR "generative AI"
+    )
+  )
+)
+AND
+TITLE-ABS-KEY(
+  human
+  OR user
+  OR "human agent interaction"
+  OR "human agent collaboration"
+  OR "human AI interaction"
+  OR "human in the loop"
+  OR judgment
+  OR judgement
+  OR "decision making"
+  OR "decision support"
+  OR trust
+  OR reliance
+  OR overreliance
+  OR "cognitive bias"
+  OR "confirmation bias"
+  OR "anchoring bias"
+  OR "automation bias"
+  OR persuasion
+  OR conformity
+  OR consensus
+  OR disagreement
+)
+AND
+(
+  TITLE-ABS-KEY(
+    "systematic review"
+    OR "systematic literature review"
+    OR "scoping review"
+    OR "systematic mapping"
+    OR "mapping study"
+    OR "meta analysis"
+    OR "umbrella review"
+    OR "tertiary study"
+    OR "tertiary review"
+    OR "evidence synthesis"
+  )
+  OR TITLE(review OR survey)
+  OR DOCTYPE(re)
+  OR DOCTYPE(sh)
+)
+AND PUBYEAR > 2017
+AND PUBYEAR < 2027

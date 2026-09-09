@@ -1,0 +1,7 @@
+search_id,database,query_id,query_version,execution_date,period,fields,n_results,known_expected,known_retrieved,known_missed,precision_proxy_50,raw_file,notes
+SCOPUS-Q1-001,Scopus,Q1,0.2,,2018-2026,TITLE-ABS-KEY,,,,,,,
+SCOPUS-Q2-001,Scopus,Q2,0.2,,2018-2026,TITLE-ABS-KEY,,,,,,,
+SCOPUS-Q3-001,Scopus,Q3,0.2,,2018-2026,TITLE-ABS-KEY,,,,,,,
+SCOPUS-Q4-001,Scopus,Q4,0.2,,2018-2026,TITLE-ABS-KEY,,,,,,,
+SCOPUS-Q5A-001,Scopus,Q5a,0.2,,2018-2026,TITLE-ABS-KEY,,,,,,,
+SCOPUS-Q5B-001,Scopus,Q5b,0.2,,2018-2026,TITLE-ABS-KEY,,,,,,,

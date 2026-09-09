@@ -1,0 +1,48 @@
+TITLE-ABS-KEY(
+  "artificial intelligence"
+  OR "human AI"
+  OR "AI assisted"
+  OR "AI supported"
+  OR algorithm
+  OR algorithms
+  OR "algorithmic decision"
+  OR "large language model"
+  OR LLM
+  OR LLMs
+  OR "generative AI"
+  OR ChatGPT
+)
+AND
+TITLE-ABS-KEY(
+  "automation bias"
+  OR overreliance
+  OR "over reliance"
+  OR "appropriate reliance"
+  OR "reliance calibration"
+  OR trust
+  OR "trust calibration"
+  OR "calibrated trust"
+  OR "appropriate trust"
+  OR "algorithm aversion"
+  OR "algorithm appreciation"
+)
+AND
+(
+  TITLE-ABS-KEY(
+    "systematic review"
+    OR "systematic literature review"
+    OR "scoping review"
+    OR "systematic mapping"
+    OR "mapping study"
+    OR "meta analysis"
+    OR "umbrella review"
+    OR "tertiary study"
+    OR "tertiary review"
+    OR "evidence synthesis"
+  )
+  OR TITLE(review OR survey)
+  OR DOCTYPE(re)
+  OR DOCTYPE(sh)
+)
+AND PUBYEAR > 2017
+AND PUBYEAR < 2027

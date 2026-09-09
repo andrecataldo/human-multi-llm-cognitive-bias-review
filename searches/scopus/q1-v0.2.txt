@@ -1,0 +1,42 @@
+TITLE-ABS-KEY(
+  "artificial intelligence"
+  OR "human AI"
+  OR "AI assisted"
+  OR "AI supported"
+  OR "explainable AI"
+  OR XAI
+  OR "large language model"
+  OR LLM
+  OR LLMs
+  OR "generative AI"
+  OR ChatGPT
+)
+AND
+TITLE-ABS-KEY(
+  "cognitive bias"
+  OR "confirmation bias"
+  OR "anchoring bias"
+  OR "automation bias"
+  OR "cognitive debiasing"
+  OR debiasing
+)
+AND
+(
+  TITLE-ABS-KEY(
+    "systematic review"
+    OR "systematic literature review"
+    OR "scoping review"
+    OR "systematic mapping"
+    OR "mapping study"
+    OR "meta analysis"
+    OR "umbrella review"
+    OR "tertiary study"
+    OR "tertiary review"
+    OR "evidence synthesis"
+  )
+  OR TITLE(review OR survey)
+  OR DOCTYPE(re)
+  OR DOCTYPE(sh)
+)
+AND PUBYEAR > 2017
+AND PUBYEAR < 2027

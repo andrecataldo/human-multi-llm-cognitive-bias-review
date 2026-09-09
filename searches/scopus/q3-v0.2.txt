@@ -1,0 +1,41 @@
+TITLE-ABS-KEY(
+  "artificial intelligence"
+  OR "human AI"
+  OR "explainable AI"
+  OR XAI
+  OR "large language model"
+  OR LLM
+  OR LLMs
+  OR "generative AI"
+)
+AND
+TITLE-ABS-KEY(
+  "human AI interaction"
+  OR "human AI collaboration"
+  OR "human AI teaming"
+  OR "human machine interaction"
+  OR "AI assisted decision making"
+  OR "AI supported decision making"
+  OR "decision support"
+  OR "human in the loop"
+)
+AND
+(
+  TITLE-ABS-KEY(
+    "systematic review"
+    OR "systematic literature review"
+    OR "scoping review"
+    OR "systematic mapping"
+    OR "mapping study"
+    OR "meta analysis"
+    OR "umbrella review"
+    OR "tertiary study"
+    OR "tertiary review"
+    OR "evidence synthesis"
+  )
+  OR TITLE(review OR survey)
+  OR DOCTYPE(re)
+  OR DOCTYPE(sh)
+)
+AND PUBYEAR > 2017
+AND PUBYEAR < 2027

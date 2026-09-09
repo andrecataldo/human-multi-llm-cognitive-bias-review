@@ -1,0 +1,44 @@
+TITLE-ABS-KEY(
+  "large language model"
+  OR LLM
+  OR LLMs
+  OR "generative AI"
+  OR ChatGPT
+)
+AND
+TITLE-ABS-KEY(
+  "human LLM"
+  OR "human AI interaction"
+  OR "human AI collaboration"
+  OR "human computer interaction"
+  OR "human factors"
+  OR "user experience"
+  OR usability
+  OR judgment
+  OR judgement
+  OR "decision making"
+  OR "decision support"
+  OR trust
+  OR reliance
+  OR overreliance
+)
+AND
+(
+  TITLE-ABS-KEY(
+    "systematic review"
+    OR "systematic literature review"
+    OR "scoping review"
+    OR "systematic mapping"
+    OR "mapping study"
+    OR "meta analysis"
+    OR "umbrella review"
+    OR "tertiary study"
+    OR "tertiary review"
+    OR "evidence synthesis"
+  )
+  OR TITLE(review OR survey)
+  OR DOCTYPE(re)
+  OR DOCTYPE(sh)
+)
+AND PUBYEAR > 2017
+AND PUBYEAR < 2027
