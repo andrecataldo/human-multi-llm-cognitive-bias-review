@@ -20,16 +20,16 @@ Investigar como diferentes formas de mediação por Large Language Models, espec
 
 ## Escopo conceitual
 
-O humano é tratado como o **sujeito cognitivo**. LLMs — individuais ou organizados em arquiteturas multiagentes — são tratados como mecanismos de mediação capazes de influenciar, amplificar ou mitigar processos de julgamento humano.
+O humano é tratado como o **sujeito cognitivo**. LLMs - individuais ou organizados em arquiteturas multiagentes - são tratados como mecanismos de mediação capazes de influenciar, amplificar ou mitigar processos de julgamento humano.
 
 A pesquisa distingue explicitamente:
 
 - vieses cognitivos humanos;
 - comportamentos enviesados ou *bias-like* produzidos por modelos;
-- efeitos emergentes da interação humano–LLM;
+- efeitos emergentes da interação humano-LLM;
 - dinâmicas específicas de sistemas multiagentes, como consenso, discordância, crítica, debate e verificação.
 
-Interfaces cérebro–máquina (BMI/BCI) permanecem como **contexto de aplicação e possível extensão futura**, não como critério de inclusão da revisão atual.
+Interfaces cérebro-máquina (BMI/BCI) permanecem como **contexto de aplicação e possível extensão futura**, não como critério de inclusão da revisão atual.
 
 ## Pipeline metodológico
 
@@ -119,10 +119,10 @@ Decisões científicas de inclusão/exclusão e julgamento QAISER permanecem sob
 
 ## Status
 
-- A1 — Tema, problema e objetivo: concluído
-- A2 — Modelo conceitual: concluído
-- A3 — Research Questions: concluído
-- A4 — Delimitação conceitual: concluído
-- A5 v0.2 — Vocabulário controlado + known-set: concluído
-- A6 v0.2 — Estratégia de busca + versão Scopus: pronta para pilotagem
+- A1 - Tema, problema e objetivo: concluído
+- A2 - Modelo conceitual: concluído
+- A3 - Research Questions: concluído
+- A4 - Delimitação conceitual: concluído
+- A5 v0.2 - Vocabulário controlado + known-set: concluído
+- A6 v0.2 - Estratégia de busca + versão Scopus: pronta para pilotagem
 - Próximo passo: **pilotagem Scopus Q1 → Q2 → Q3 → Q4 → Q5a → Q5b**
