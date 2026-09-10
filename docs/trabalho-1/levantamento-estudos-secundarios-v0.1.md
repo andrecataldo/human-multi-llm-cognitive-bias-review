@@ -106,3 +106,7 @@ A avaliação preliminar pelo QAISER evidencia um descompasso entre rigor, atual
 3. A avaliação QAISER ainda precisa ser refeita item a item a partir do texto integral de cada revisão.
 4. As categorias de atualidade e aderência são analíticas e não fazem parte do QAISER.
 5. A conclusão sobre a necessidade de uma nova revisão deve ser atualizada após deduplicação, screening e snowballing.
+
+## 10. Uso de Inteligência Artificial Generativa
+
+Ferramentas de Inteligência Artificial Generativa foram utilizadas como apoio à revisão textual, organização de ideias, estruturação do material e refinamento de trechos. A seleção das fontes, a definição dos critérios metodológicos, a interpretação acadêmica dos estudos, a análise crítica dos resultados e a redação final são de responsabilidade exclusiva do autor.
