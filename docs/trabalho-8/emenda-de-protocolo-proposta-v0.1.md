@@ -1,4 +1,4 @@
-# Proposta de emenda metodológica — Semana 10 (NÃO aplicada ao protocolo vigente)
+# Proposta de emenda metodológica - Semana 10 (NÃO aplicada ao protocolo vigente)
 
 **Escopo:** justificar, **se necessário**, uma Wave 2 de descoberta complementar de estudos primários identificados fora do pool Scopus original. Esta proposta não transforma retroativamente a execução Scopus-only de 16/09/2026 em pesquisa multi-base.
 

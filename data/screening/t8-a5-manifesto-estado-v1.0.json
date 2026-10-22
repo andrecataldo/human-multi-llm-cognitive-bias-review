@@ -1,0 +1,35 @@
+{
+  "scope": "T8-A5 MINUTA PARA SUBMISSAO CONDICIONADA",
+  "historical_scopus": {
+    "raw_ocurrences": 3365,
+    "unique_reports": 3256,
+    "title_abstract_screened": 2830,
+    "retained_for_full_text": 1419,
+    "wave1_reports": 10,
+    "wave1_studies": 13
+  },
+  "supplementary_identification": {
+    "found_candidates": 6,
+    "suspended_reports": 1,
+    "proposed_additional_reports": 5,
+    "proposed_additional_studies": 8,
+    "approved_new_reports": 0
+  },
+  "analytical_working_set": {
+    "proposed_reports": 15,
+    "proposed_studies": 21,
+    "report_inventory_with_suspended": 16
+  },
+  "qa_primary": {
+    "reports_with_preliminary_qa": 6,
+    "total_items": 60,
+    "suspended_report_in_qa": "T8-C03",
+    "historical_reports_qa_not_reassessed": 10
+  },
+  "status": "SOURCE_PROVENANCE_AND_HUMAN_ADJUDICATION_PENDING",
+  "historical_commit": "ad15484",
+  "documents": [
+    "docs/trabalho-8/t8-a5-fechamento-metodologico-v1.0.md",
+    "docs/trabalho-8/semana10-trabalho8-final-v1.0.md"
+  ]
+}
