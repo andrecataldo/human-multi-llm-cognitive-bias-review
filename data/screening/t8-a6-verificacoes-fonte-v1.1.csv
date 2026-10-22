@@ -1,0 +1,6 @@
+﻿candidato,doi,data_consulta,o_que_a_fonte_sustenta,fonte_url,status,limite
+T8-C03,10.1145/3772318.3790934,22/10/2026,DOI e referência da CHI confirmados,https://dblp.dagstuhl.de/rec/conf/chi/LiPLXZJMC26.html,BIBLIOGRAFIA_CONFIRMADA,NÃO comprova texto completo ou I9
+T8-C03,10.1145/3772318.3790934,22/10/2026,ResearchGate assinala solicitação de PDF,https://www.researchgate.net/publication/403752328_Does_Sycophancy_Change_Decisions_Effect_of_LLM_Sycophancy_on_AI-Assisted_Decision-Making,FULLTEXT_NAO_OBTIDO,Pode existir versão integral em outro local; não concluir inexistência
+T8-C05,10.1126/science.aec8352,22/10/2026,Science: três experimentos humanos com N=2405; estudo model-only separado,https://doi.org/10.1126/science.aec8352,RESULTADO_RESUMO_EDITORA,Não dispensa auditar suplementos e análises por estudo
+T8-C06,10.1038/s41591-025-04074-y,22/10/2026,Nature Medicine/PMC: artigo completo N=1298; braços LLM separados,https://pmc.ncbi.nlm.nih.gov/articles/PMC12920132/,FULLTEXT_ACESSIVEL,Não mede diretamente confirmation/anchoring; I5 em aberto
+T8-C06,10.1038/s41591-025-04074-y,22/10/2026,Publisher correction: Fig 2a eixo vertical corrigido em 17/04/2026,https://doi.org/10.1038/s41591-026-04404-8,CORRECAO_CONFIRMADA,Conferir figura corrigida em uso; sem inferir alteração de effect sizes

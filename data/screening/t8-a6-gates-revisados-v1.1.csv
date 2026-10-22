@@ -1,0 +1,10 @@
+﻿gate,dimensao,status_t8_a6,concluido_cientificamente,evidencia,responsavel,proxima_acao
+G01,Proveniência Scopus / emenda,ABERTO,NAO,Export 1419 ausente; AM-002 apenas proposta,Pesquisador,Aprovar estratégia complementar com fonte/data/fluxo ou recuperar export
+G02,Rastreabilidade complementar,PARCIAL,NAO,DOIs e fontes identificadas; termos/datas originais não documentados,Pesquisador,Registrar logs existentes ou executar busca complementar prospectiva
+G03,Elegibilidade I1-I9,ABERTO,NAO,Pré-elegibilidade; I5 C06 em aberto; nenhuma nova inclusão homologada,Pesquisador,Adjudicar 5 reports com texto integral e critério I5
+G04,C03 suspenso,RESOLVIDO_APENAS_WORKING_SET,SIM_ESCOPADO,C03 não contabilizado; ST017 reservado; I9 ainda não comprovado,Pesquisador,Somente revisitar se C03 voltar à seleção
+G05,Conferência de evidências,ABERTO,NAO,8 estudos novos com extração AI-assisted e validação humana pendente,Pesquisador,"Comparar fonte, suplementos, erratas e resultados por unidade"
+G06,QA dos candidatos,ABERTO,NAO,"60 células preliminares, incluindo C03 suspenso",Pesquisador,Adjudicar QA1-QA10 para 5 candidatos prioritários
+G07,QA dos 10 originais,CONDICIONAL,NAO_REQUERIDO_NESTA_AFIRMACAO,Documento não reivindica QA integral de 15 reports,Pesquisador,"Se desejar afirmar QA completo, avaliar os 10 reports históricos"
+G08,Homologação / promoção,ABERTO,NAO,Novos reports ainda em screening e não included,Pesquisador,"Aprovar seleção, deduplicar, atualizar fluxo e promover apenas homologados"
+G09,Preparação do Classroom,PREPARADO_NAO_SUBMETIDO,PARCIAL,Mensagem v1.1 e documento para entrega transparente estão prontos,Aluno,Confirmar commit/push e submeter manualmente no Classroom
