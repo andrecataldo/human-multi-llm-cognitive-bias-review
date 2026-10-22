@@ -1,0 +1,7 @@
+﻿candidate_id,doi,title,candidate_role,fulltext_status,scopus_1419_membership,study_ids_reserved,researcher_status,notes
+T8-C01,10.1145/3706598.3713133,From Text to Trust: Empowering AI-assisted Decision Making with Adaptive LLM-powered Analysis,KEEP_PROVISIONAL,FULL_TEXT_REVIEWED,UNRESOLVED,ST014;ST015,PENDING_HUMAN_CHECK,Original Wave 2 candidate
+T8-C02,10.1038/s41598-025-98378-1,Testing the limits of large language models in debating humans,KEEP_PROVISIONAL,FULL_TEXT_REVIEWED,UNRESOLVED,ST016,PENDING_HUMAN_CHECK,Original Wave 2 candidate
+T8-C03,10.1145/3772318.3790934,Does Sycophancy Change Decisions? Effect of LLM Sycophancy on AI-Assisted Decision-Making,SUSPENDED_I9,ABSTRACT_ONLY,UNRESOLVED,ST017,PENDING_FULLTEXT,Do not reuse ST017 if replaced
+T8-C04,10.1145/3772318.3791796,Investigating the Effects of LLM Use on Critical Thinking Under Time Constraints: Access Timing and Time Availability,KEEP_PROVISIONAL,FULL_TEXT_REVIEWED,UNRESOLVED,ST018,PENDING_HUMAN_CHECK,Original Wave 2 candidate
+T8-C05,10.1126/science.aec8352,Sycophantic AI decreases prosocial intentions and promotes dependence,KEEP_PROVISIONAL,FULL_TEXT_REVIEWED,UNRESOLVED,ST019;ST020;ST021,PENDING_HUMAN_CHECK,Three human studies only
+T8-C06,10.1038/s41591-025-04074-y,Reliability of LLMs as medical assistants for the general public: a randomized preregistered study,ALTERNATE_PROPOSED_FOR_C03,FULL_TEXT_REVIEWED,UNRESOLVED,ST022,PENDING_HUMAN_CHECK,Web manual directed identification 2026-10-22; correction 2026-04-17
